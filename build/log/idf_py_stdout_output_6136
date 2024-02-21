@@ -1,0 +1,1 @@
+could not open port '\\\\.\\COM4': PermissionError(13, 'A device attached to the system is not functioning.', None, 31)

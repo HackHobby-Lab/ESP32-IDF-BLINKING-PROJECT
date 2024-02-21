@@ -1,0 +1,9 @@
+{
+    "idf.toolsPathWin": "C:\\Users\\PMLS\\.espressif",
+    "idf.espIdfPathWin": "C:\\Users\\PMLS\\esp\\v5.1.2\\esp-idf",
+    "idf.adapterTargetName": "esp32",
+    "idf.openOcdConfigs": [
+        "board/esp32-wrover-kit-3.3v.cfg"
+    ],
+    "idf.portWin": "COM4"
+}
